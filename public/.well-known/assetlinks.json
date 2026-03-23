@@ -1,0 +1,9 @@
+	
+0	
+relation	
+0	"delegate_permission/common.handle_all_urls"
+target	
+namespace	"android_app"
+package_name	"app.vercel.temiz_nefes_a8l2.twa"
+sha256_cert_fingerprints	
+0	"65:D8:FC:9C:55:01:FF:EC:53:AB:19:B1:FF:CE:65:17:85:E1:E2:4B:71:98:6D:AF:7F:5E:AD:C6:C2:CD:54:C2"
